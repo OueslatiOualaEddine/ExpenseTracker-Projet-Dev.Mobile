@@ -30,10 +30,13 @@ A beautiful and intuitive Expense Tracker App built with Flutter, allowing you t
 ## Screenshots
 
 - **Homepage / List of Items:**
+
   <img src="Screenshots/Screenshot_20240823_015102.png" alt="Homepage" width="400">
 
 - **Adding a Transaction:**
+
   <img src="Screenshots/Screenshot_20240823_015205.png" alt="Adding a Transaction" width="400">
 
 - **Deleting a Transaction:**
+
   <img src="Screenshots/Screenshot_20240823_015235.png" alt="Deleting a Transaction" width="400">
